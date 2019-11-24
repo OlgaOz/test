@@ -1,10 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="ee361ab9-c8cc-4341-bccf-781cbd127fdd" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/fileA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fileA.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fileB.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fileB.txt" afterDir="false" />
     </list>
+=======
+    <list default="true" id="1a76eb37-679d-4863-a2a7-e8fad2b6f132" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> 4ef7493af213a9b61e0607e627ff56dddb1ab9ea
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +44,33 @@
     <configuration />
   </component>
   <component name="TaskManager">
+<<<<<<< HEAD
     <servers />
   </component>
+=======
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1a76eb37-679d-4863-a2a7-e8fad2b6f132" name="Default Changelist" comment="" />
+      <created>1574597500773</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574597500773</updated>
+      <workItem from="1574597503505" duration="536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+>>>>>>> 4ef7493af213a9b61e0607e627ff56dddb1ab9ea
 </project>
